@@ -5,26 +5,30 @@ subtitle: Who work(ed) in LQT
 ---
 
 ### Principal Research
-Reinaldo Pis Diez
+* Reinaldo Pis Diez
 
 ### Researchs
-Carlos A. Franca
-Martín J. Lavecchia
+* Carlos A. Franca
+* Martín J. Lavecchia
 
 ### Postdocs
-Leonardo E. Riafrecha
+* Leonardo E. Riafrecha
 
 ### PhD students
-Leandro Bof
-Julián Del Pla
+* Leandro Bof
+* Julián Del Pla
 
 ### Alumni
-Esteban D. Gadea
-Leonardo Martinez Heredia
+* Esteban D. Gadea
+* Leonardo Martinez Heredia
 
-## Worked
-Hernán R. Sanchez
-Verónica Ferraresi Curotto
-Samanta M. Carrión
-María Luján Alegre
-Santiago Cingolani
+### Worked
+* Santiago Cingolani
+* Hernán R. Sanchez
+* Verónica Ferraresi Curotto
+* Samanta M. Carrión
+* María Luján Alegre
+
+### Collaborators
+* Pedro A. Colinas (CEDECOR)
+* etc
