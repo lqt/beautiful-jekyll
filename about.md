@@ -4,8 +4,8 @@ title: About
 subtitle: sobre el grupo
 ---
 
-**ES:** El grupo de Química Computacional 
+**ES:** El grupo de Química Computacional...
 
-**EN:** Computational Chemistry Group of CEQUINOR 
+**EN:** Computational Chemistry Group of CEQUINOR...
 
 
