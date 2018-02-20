@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-subtitle: Here you find us
+subtitle: here you find us
 ---
 
 ### Address 
