@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About 
-subtitle: Acerca de
+subtitle: sobre el grupo
 ---
 
 **ES:** El grupo de Química Computacional 
 
 **EN:** Computational Chemistry Group of CEQUINOR 
 
-### Historia
-Under construction
+
