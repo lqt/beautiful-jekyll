@@ -4,10 +4,10 @@ title: People
 subtitle: who work(ed) in LQT
 ---
 
-### Principal Research
+### Principal Researcher
 * Reinaldo Pis Diez
 
-### Researchs
+### Researchers
 * Carlos A. Franca
 * Martín J. Lavecchia
 
