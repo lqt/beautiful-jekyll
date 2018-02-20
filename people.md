@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: Who work(ed) in LQT
+subtitle: who work(ed) in LQT
 ---
 
 ### Principal Research
@@ -22,7 +22,7 @@ subtitle: Who work(ed) in LQT
 * Esteban D. Gadea
 * Leonardo Martinez Heredia
 
-### Worked
+### Former Members
 * Santiago Cingolani
 * Hernán R. Sanchez
 * Verónica Ferraresi Curotto
