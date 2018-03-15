@@ -23,6 +23,8 @@ subtitle: who work(ed) in LQT
 * Leonardo Martinez Heredia
 
 ### Former Members
+* Santiago Miranda
+* Patricia A. Quispe
 * Santiago Cingolani
 * Hernán R. Sanchez
 * Verónica Ferraresi Curotto
