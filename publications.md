@@ -2,10 +2,10 @@
 layout: page
 title: Publications
 pubs:
-   - title: "Investigating molecular dynamics-guided lead optimization of EGFR inhibitors"
-     author: "Lavecchia, Martin J and de la Bellacasa, Raimon Puig and Borrell, Jos{\'e} I and Cavasotto, Claudio N"
-     journal: "Bioorganic \& medicinal chemistry"
-     year: "2016"
+    - title:   "Investigating molecular dynamics-guided lead optimization of EGFR inhibitors"    
+      author:  "Lavecchia, Martin J and de la Bellacasa, Raimon Puig and Borrell, Jose I and Cavasotto, Claudio N"
+      journal: "Bioorganic & medicinal chemistry"
+      year:    "2016"
     
     - title:   "Latent Tree Variational Autoencoder for Joint Representation Learning and Multidimensional Clustering"
       author:  "Xiaopeng Li, Zhourong Chen and Nevin L. Zhang"
@@ -41,24 +41,7 @@ pubs:
           url:  ""
         - name: "github"
           url:  "https://github.com/eelxpeng/RVAE"
-
-    - title:   "Collaborative Variational Autoencoder for Recommender Systems"title={Investigating molecular dynamics-guided lead optimization of EGFR inhibitors},
-  author={Lavecchia, Martin J and de la Bellacasa, Raimon Puig and Borrell, Jos{\'e} I and Cavasotto, Claudio N},
-  journal={Bioorganic \& medicinal chemistry},
-  volume={24},
-  number={4},
-  pages={768--778},
-  year={2016},
-      author:  "X. Li and J. She"
-      journal: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-      year:    "2017"
-      url:     ""
-      media:
-        - name: "paper"
-          url:  "/assets/paper/Collaborative_Variational_Autoencoder.pdf"
-        - name: "github"
-          url:  "https://github.com/eelxpeng/CollaborativeVAE"
-
+  
     - title:   "A Bayesian Neural Network for Deep Learning in Mobile Multimedia using Small Data"
       author:  "X. Li, J. She and M. Cheung"
       journal: "Submitted to ACM Trans. Multimedia Comput. Commun. Appl. (Under Review)"
