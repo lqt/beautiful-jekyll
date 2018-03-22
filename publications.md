@@ -16,8 +16,9 @@ pubs:
       journal: "Polyhedron"
       year: "2017"
       media:
-        -name: "doi"
-         url: "https://doi.org/10.1016/j.poly.2017.07.013"
+        - name: "doi"
+          url: "https://doi.org/10.1016/j.poly.2017.07.013"
+
 
 
 
