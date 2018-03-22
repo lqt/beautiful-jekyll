@@ -8,7 +8,7 @@ pubs:
       year: "2018"
       media:
         - name: "paper"
-          url:  "https://www.sciencedirect.com/science/article/pii/S0733521017304368"
+          url:  "https://doi.org/10.1016/j.jcs.2017.11.004"
 
 
     - title: "A novel oxidovanadium (V) compound with an isonicotinohydrazide ligand. A combined experimental and theoretical study and cytotoxity against K562 cells"
@@ -19,6 +19,13 @@ pubs:
         - name: "doi"
           url: "https://doi.org/10.1016/j.poly.2017.07.013"
 
+    - title: "Bidimensional Spectroelectrochemistry: application of a new device in the study of a o-vanillin-copper (II) complex"
+      author: "D Izquierdo, V Ferraresi-Curotto, A Heras, R Pis-Diez, AC Gonzalez-Baro, A Colina"
+      journal: "Electrochimica Acta"
+      year: "2017"
+      media:
+        - name: "doi"
+          url: "https://doi.org/10.1016/j.electacta.2017.05.105"
 
 
 
