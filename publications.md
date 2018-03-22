@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 pubs:
+
     - title: "A retention index-based QSPR model for the quality control of rice"
       author "Rojas, Cristian and Tripaldi, Piercosimo and P{\'e}rez-Gonz{\'a}lez, Andr{\'e}s and Duchowicz, Pablo R and Diez, Reinaldo Pis"
       journal: "Journal of Cereal Science"
