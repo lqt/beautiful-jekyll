@@ -2,6 +2,16 @@
 layout: page
 title: Publications
 pubs:
+    - title: "A retention index-based QSPR model for the quality control of rice"
+      author "Rojas, Cristian and Tripaldi, Piercosimo and P{\'e}rez-Gonz{\'a}lez, Andr{\'e}s and Duchowicz, Pablo R and Diez, Reinaldo Pis"
+      journal: "Journal of Cereal Science"
+      year: "2018"
+      media:
+        - name: "paper"
+          url:  "https://www.sciencedirect.com/science/article/pii/S0733521017304368"
+
+
+
     - title:   "Investigating molecular dynamics-guided lead optimization of EGFR inhibitors"    
       author:  "Lavecchia, Martin J and de la Bellacasa, Raimon Puig and Borrell, Jose I and Cavasotto, Claudio N"
       journal: "Bioorganic & medicinal chemistry"
