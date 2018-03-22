@@ -9,14 +9,14 @@ pubs:
       media:
         - name: "paper"
           url:  "https://www.sciencedirect.com/science/article/pii/S0733521017304368"
-
-  - title: "A novel oxidovanadium (V) compound with an isonicotinohydrazide ligand. A combined experimental and theoretical study and cytotoxity against K562 cells"
-    author: "Ana C González-Baró, Verónica Ferraresi-Curotto, Reinaldo Pis-Diez, Beatriz S Parajón Costa, Jackson ALC Resende, Flávia CS de Paula, Elene C Pereira-Maia, Nicolás A Rey"
-    journal: "Polyhedron"
-    year: "2017"
-    media:
-      -name: "doi"
-       url: "https://doi.org/10.1016/j.poly.2017.07.013"
+    - title:
+    - title: "A novel oxidovanadium (V) compound with an isonicotinohydrazide ligand. A combined experimental and theoretical study and cytotoxity against K562 cells"
+      author: "Ana C González-Baró, Verónica Ferraresi-Curotto, Reinaldo Pis-Diez, Beatriz S Parajón Costa, Jackson ALC Resende, Flávia CS de Paula, Elene C Pereira-Maia, Nicolás A Rey"
+      journal: "Polyhedron"
+      year: "2017"
+      media:
+        -name: "doi"
+         url: "https://doi.org/10.1016/j.poly.2017.07.013"
 
 
 
