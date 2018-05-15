@@ -16,6 +16,7 @@ subtitle: who work(ed) in LQT
 
 ### PhD students
 * Leandro Bof
+* Vladimir Coussirat
 * Julián Del Pla
 
 ### Alumni
@@ -33,4 +34,4 @@ subtitle: who work(ed) in LQT
 
 ### Collaborators
 * Pedro A. Colinas (CEDECOR)
-* etc
+
